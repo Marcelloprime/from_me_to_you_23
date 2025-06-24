@@ -1,0 +1,7 @@
+streamlit
+wordcloud
+plotly.express
+PIL
+folium
+streamlit_folium
+geopy
