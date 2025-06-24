@@ -317,7 +317,7 @@ with col3:
     st.caption(f"Primera vez: {tequiero_fecha.strftime('%d/%m/%Y')}")
 
 
-st.image('data/foto1.JPEG')
+st.image('data/im1.png')
 
 st.write('''
 ¿Tantas veces nos hemos dicho palabras amorosas? Realmente es que ya no existe día o momento del día en el cual no nos digamos lo mucho que nos amamos.
