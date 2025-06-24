@@ -1,7 +1,6 @@
 streamlit
 wordCloud
 plotly.express
-PIL
 folium
 streamlit_folium
 geopy
